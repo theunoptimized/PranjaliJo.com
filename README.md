@@ -1,4 +1,4 @@
-# Pranjali J
+# Pranjali Joshi
 
 **Keynote Speaker · AI Product Marketing Expert · Cancer Survivor · Podcast Host**
 
