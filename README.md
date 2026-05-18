@@ -1,6 +1,6 @@
 # Pranjali Joshi
 
-**AI Product Marketing Expert · Podcast Host . Cancer Survivor · M.Sc (Consumer Psychology and Datascience) **
+**AI Product Marketing Expert · Podcast Host . Cancer Survivor · M.Sc (Consumer Psychology and Datascience)**
 
 I am an AI product marketing leader at NVIDIA.  
 I also recently survived ovarian cancer.
