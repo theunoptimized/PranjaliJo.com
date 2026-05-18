@@ -2,13 +2,6 @@
 
 **Keynote Speaker · AI Product Marketing Expert · Cancer Survivor · Podcast Host**
 
-Building and translating AI for humans.  
-Conversations on ambition, resilience, ethics, and the people behind intelligent systems.
-
----
-
-## About
-
 I am an AI product marketing leader at NVIDIA.  
 I also recently survived ovarian cancer.
 
@@ -25,11 +18,11 @@ Today, I speak, write, and host conversations about:
 
 ## What I Do
 
-### 🎤 Keynote Speaking
+### 🎤 Conference Speaking
 World Models, AI, leadership, human resilience, the future of work, women in tech.
 
 ### 🚀 Product Marketing
-Scaling narratives for frontier AI products and emerging technologies.
+Scaling narratives for frontier AI products and emerging technologies @ NVIDIA.
 
 ### 🤖 AI Exploration
 Making AI more human, accessible, and emotionally intelligent.
