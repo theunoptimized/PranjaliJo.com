@@ -22,7 +22,7 @@ Today, I speak, write, and host conversations about:
 World Models, AI, leadership, human resilience, the future of work, women in tech.
 
 ### 🚀 Product Marketing
-Scaling narratives for frontier AI products and emerging technologies @ NVIDIA.
+Scaling narratives for frontier AI products and emerging technologies.
 
 ### 🤖 AI Exploration
 Making AI more human, accessible, and emotionally intelligent.
