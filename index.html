@@ -205,6 +205,46 @@
           <p>
             Honest conversations with founders,
             researchers, operators, and builders shaping AI.
+            <!-- Formspree Ajax library -->
+<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+
+<!-- Success & Error messages -->
+<div data-fs-success style="display:none; color: green; margin-bottom: 1rem;">
+  Thanks for reaching out! I'll review your request and get back to you soon.
+</div>
+<div data-fs-error style="display:none; color: red; margin-bottom: 1rem;">
+  Something went wrong. Please try again or email me directly.
+</div>
+
+<!-- Podcast Request Form -->
+<form id="podcast-form">
+  <label for="name">Your Name</label>
+  <input type="text" id="name" name="name" data-fs-field placeholder="Jane Smith" required />
+  <span data-fs-error="name"></span>
+
+  <label for="email">Your Email</label>
+  <input type="email" id="email" name="email" data-fs-field placeholder="jane@example.com" required />
+  <span data-fs-error="email"></span>
+
+  <label for="topic">Proposed Topic</label>
+  <input type="text" id="topic" name="topic" data-fs-field placeholder="e.g. AI ethics, Women in leadership, Career pivots in tech" required />
+  <span data-fs-error="topic"></span>
+
+  <label for="background">Your Background</label>
+  <textarea id="background" name="background" data-fs-field rows="4"
+    placeholder="Tell me about yourself — your role, company, and what makes your perspective unique." required></textarea>
+  <span data-fs-error="background"></span>
+
+  <label for="links">LinkedIn or Website (optional)</label>
+  <input type="url" id="links" name="links" data-fs-field placeholder="https://linkedin.com/in/yourprofile" />
+
+  <button type="submit" data-fs-submit-btn>Submit Request</button>
+</form>
+
+<script>
+  window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+  formspree('initForm', { formElement: '#podcast-form', formId: 'xredbyvo' });
+</script>
           </p>
         </div>
 
