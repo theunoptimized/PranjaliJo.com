@@ -1,0 +1,49 @@
+# Pranjali Joshi — pranjalijo.com
+
+> Pranjali Joshi is an AI product marketing leader at NVIDIA, conference speaker,
+> podcast host, cancer survivor, and advocate for women in tech. She speaks and
+> writes about the human side of AI, leadership under pressure, resilience, and
+> what it means to be a woman navigating high-performance technology industries.
+
+## Who She Is
+
+- Senior Product Marketing Manager at NVIDIA
+- M.Sc in Consumer Psychology & Data Science from University of Maryland, College Park
+- Ovarian cancer survivor and advocate
+- Conference speaker on AI leadership, women in tech, resilience, and future of work
+- Host of the "Humans Behind AI" podcast
+
+## What She Talks About
+
+- Artificial intelligence and product marketing
+- The human side of AI and emerging technology
+- Women in tech leadership and empowerment
+- Resilience, identity, and ambition after adversity
+- Leadership under pressure in high-performance industries
+
+## Key Pages
+
+- Homepage / Bio: https://pranjalijo.com
+- Podcast: https://pranjalijo.com (The Unoptimized)
+- Speaking Inquiries: https://pranjalijo.com
+- LinkedIn: https://www.linkedin.com/in/YOUR-HANDLE
+
+## Crawl Permissions
+
+This site welcomes indexing by AI crawlers, LLM training pipelines,
+RAG systems, and search engines. All content is freely accessible.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
