@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pranjalijo.com/sitemap.xml
